@@ -9,7 +9,7 @@
   }
   .pixel {
       display: table-cell;
-      background-color: black;
+      background-color: white;
       width: 48px;
       height: 48px;
   }
